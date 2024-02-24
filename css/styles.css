@@ -1,0 +1,173 @@
+body {
+    font-family: 'Barlow Condensed';
+}
+
+h1 {
+  font-size: 3.5rem;
+  font-family: 'Barlow Condensed';
+  margin-bottom: 30px;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: Lobster;
+}
+
+h3 {
+  font-size: 1.5rem;
+  color: #FFEBB7;
+  margin-bottom: 30px;
+}
+
+h4 {
+  font-size: 1.5rem;
+}
+
+h5 {
+  font-size: 1.5rem;
+  color: #FFEBB7;
+}
+
+p {
+  margin-top: 30px;
+  font-size: 1.2rem;
+}
+
+/* Home Section */
+
+#Home {
+  background-color: #FFEBB7;
+  padding-bottom: 50px;
+}
+
+        /* navbar */
+.navbar {
+  margin-bottom: 50px;
+  font-family: Lobster;
+}
+
+.navbar-brand {
+  font-size: 2.5rem;
+}
+
+.container-fluid {
+  padding: 3% 10%;
+}
+
+.nav-item {
+  font-size: 1.2rem;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+        /* Title */
+.title-text {
+  padding-top: 20px;
+}
+
+.title-img {
+  width: 98%;
+}
+
+.title-button {
+  margin-right: 10px;
+}
+
+/* Features Section */
+
+#features {
+  background-color: #222222;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.feature-col {
+  text-align: center;
+}
+
+.fa-3x {
+  margin-bottom: 20px;
+  color: #FFEBB7;
+}
+
+/* Categories Section */
+
+#categories {
+  background-color: #FFEBB7;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+.categories-row {
+  margin-top: 60px;
+}
+
+.categories-img {
+  width: 100px;
+}
+
+.categories-carousel-inner {
+  height: 160px;
+  margin-bottom: 10px;
+}
+
+.categories-col {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.categories-carousel {
+  margin-right: 35%;
+  margin-left: 35%;
+}
+
+/* Best Sellers Section */
+
+#best-sellers {
+  background-color: #222222;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+#bestseller-h2 {
+  color: #FFEBB7;
+}
+
+/* .bestsellers-container {
+  padding-left: 15%;
+  padding-right: 15%;
+} */
+
+.best-sellers-row {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+.best-sellers-col {
+  text-align: center;
+}
+
+.best-sellers-img {
+  width: 200px;
+  margin-bottom: 20px;
+}
+
+/* Contact Section */
+
+#contact {
+  text-align: center;
+  background-color: #FFEBB7;
+}
+
+.fa-2x {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.fa-2x:hover {
+  color: black;
+}
